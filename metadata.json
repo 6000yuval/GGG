@@ -1,0 +1,5 @@
+{
+  "name": "Hebrew AI Blog (Client-Side)",
+  "description": "A clean, RTL, SEO-optimized (simulated) blog about Artificial Intelligence in Hebrew. Features markdown rendering, logical styling, and Gemini API integration for post summarization.",
+  "requestFramePermissions": []
+}
